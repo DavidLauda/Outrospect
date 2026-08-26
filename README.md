@@ -1,6 +1,6 @@
 # Outrospect
 
-Personal research tool that collects publicly posted X/Twitter complaints directed at Indonesian government services, classifies them with an LLM, and surfaces trends in a dashboard.
+Personal research tool that collects publicly posted Social Media complaints directed at Indonesian government services, classifies them with an LLM, and surfaces trends in a dashboard.
 
 ---
 
